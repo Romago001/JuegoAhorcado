@@ -2,9 +2,9 @@ var intento = 0
 var endgame = false
 var acertados = 0
 var modoOscuro = false
-var listaPalabras = ["juvenil", "usable", "suciedad", "salida", "emitir", "inverso", "feroz",
-    "atico", "oracion", "audaz", "buldog", "abrasivo", "fraccion", "odio", "sabueso",
-    "cero", "curacion", "genetico", "colera", "esencial"];
+var listaPalabras = ["repollo", "usable", "suciedad", "rosa", "sonido", "universo", "gato",
+    "palabra", "guitarra", "westy", "bulldog", "camino", "cuerda", "perro", "manzana",
+    "abuela", "oracion", "collar", "remera", "ceja"];
 
 function play(dir) {
     var audio = new Audio(dir);
